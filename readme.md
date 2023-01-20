@@ -1,0 +1,1 @@
+Bu çalışmamda Loruki adlı sitenin clonunu html ve css ile responsive tasarım yaptım.
